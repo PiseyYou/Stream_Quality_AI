@@ -1,0 +1,3 @@
+/home/xavier3/Downloads/rtsp_l4t_close_decoder/build/CMakeFiles/rebuild_cache.dir
+/home/xavier3/Downloads/rtsp_l4t_close_decoder/build/CMakeFiles/thread_close.dir
+/home/xavier3/Downloads/rtsp_l4t_close_decoder/build/CMakeFiles/edit_cache.dir
